@@ -1,0 +1,9 @@
+# Игнорировать секретные файлы
+.env
+credentials.json
+
+# Python и PyCharm
+__pycache__/
+*.pyc
+.idea/
+.venv/

@@ -1,0 +1,13 @@
+discord.py
+python-dotenv
+gspread
+oauth2client
+opencv-python
+pytesseract
+aiohttp
+pynacl
+timedelta
+Pillow
+bs4
+selenium
+google-api-python-client

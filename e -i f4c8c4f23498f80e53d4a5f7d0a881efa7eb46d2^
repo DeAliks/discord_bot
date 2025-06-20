@@ -1,0 +1,62 @@
+[33mcommit 5b6b93b99282314e24d905a5f8cd426da436e116[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: DeAliks <de.aliks@gmail.com>
+Date:   Fri Jun 20 11:39:11 2025 +0300
+
+    remove secrets from commit
+
+ .env             |  2 [31m--[m
+ .gitignore       |  0
+ credentials.json | 13 [31m-------------[m
+ 3 files changed, 15 deletions(-)
+
+[33mcommit f4c8c4f23498f80e53d4a5f7d0a881efa7eb46d2[m
+Author: DeAliks <de.aliks@gmail.com>
+Date:   Fri Jun 20 11:24:23 2025 +0300
+
+    send main file
+
+ .env                 |   2 [32m+[m
+ Gears.py             | 193 [32m++++++++++++++++++++++++++++++++++++++++++[m
+ Resized_BossZone.png | Bin [31m0[m -> [32m323249[m bytes
+ TOKEN.py             |  73 [32m++++++++++++++++[m
+ auction.py           |   0
+ credentials.json     |  13 [32m+++[m
+ data.py              | 157 [32m++++++++++++++++++++++++++++++++++[m
+ image.png            | Bin [31m0[m -> [32m427630[m bytes
+ main.py              | 177 [32m++++++++++++++++++++++++++++++++++++++[m
+ requirements.txt     |  13 [32m+++[m
+ spawn.py             | 234 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 11 files changed, 862 insertions(+)
+
+[33mcommit 6a94851b8b40bd755dce6b0d9a95d18cf1b0263f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aliks Denisov <62519228+DeAliks@users.noreply.github.com>
+Date:   Fri Jun 20 11:22:39 2025 +0300
+
+    README.md
+
+ README.md | Bin [31m62[m -> [32m20[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit e963db74b323e4ca13cebfdbc05d7d07b12506a3[m
+Author: DeAliks <de.aliks@gmail.com>
+Date:   Fri Jun 20 11:17:32 2025 +0300
+
+    first commit
+
+ .idea/.gitignore                               |  3 [32m+++[m
+ .idea/NightCrowsApp.iml                        | 10 [32m++++++++++[m
+ .idea/inspectionProfiles/Project_Default.xml   | 12 [32m++++++++++++[m
+ .idea/inspectionProfiles/profiles_settings.xml |  6 [32m++++++[m
+ .idea/misc.xml                                 |  7 [32m+++++++[m
+ .idea/modules.xml                              |  8 [32m++++++++[m
+ .idea/vcs.xml                                  |  6 [32m++++++[m
+ 7 files changed, 52 insertions(+)
+
+[33mcommit 2d6f89638639071794259bb1f6c8a5d4a3572b96[m
+Author: DeAliks <de.aliks@gmail.com>
+Date:   Fri Jun 20 10:50:22 2025 +0300
+
+    first commit
+
+ README.md | Bin [31m0[m -> [32m62[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
